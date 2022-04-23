@@ -25,6 +25,7 @@ p {
   color: #787887;
 }
 body {
+  width: 100vw;
   min-height: 100vh;
   background-image: linear-gradient(to bottom, #af67e9, #6565e7);
   display: flex;
