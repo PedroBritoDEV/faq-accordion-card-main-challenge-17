@@ -78,6 +78,9 @@ main {
   justify-content: space-between;
   margin: 20px 0;
 }
+.second-section .second-content>div>div>div img {
+  transition: .3s;
+}
 
 /* JAVASCRIPT */
 .hidden {
