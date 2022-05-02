@@ -25,7 +25,6 @@ p {
   color: #787887;
 }
 body {
-  width: 100vw;
   min-height: 100vh;
   background-image: linear-gradient(to bottom, #af67e9, #6565e7);
   display: flex;
@@ -77,9 +76,6 @@ main {
   align-items: center;
   justify-content: space-between;
   margin: 20px 0;
-}
-.second-section .second-content>div>div>div img {
-  transition: .3s;
 }
 
 /* JAVASCRIPT */
